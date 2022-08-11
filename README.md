@@ -10,4 +10,11 @@ L'étude s'est portée sur un axe précis, qui est de savoir si l'origine des pa
 
 <h4>La conclusion risque de vous surprendre...</h4>
 
-Pour ce faire plusieurs outils de visualisation sont utilisés tels que la librairie Plotly ou encore Seaborn et Matplotlib, après avoir fait du data engineering sur nos données.
+L'étude est conduite de la façon suivante : 
+
+<ul>
+  <li>Overview du dataset</li>
+  <li>Data engineering sur les données pour obtenir des valeurs parlantes</li>
+  <li>Création de graphiques pertinents pour la problématique via Matplotlib, Plotly ou Seaborn</li>
+  <li>Conclusion</li>
+</ul>
