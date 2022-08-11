@@ -19,4 +19,4 @@ L'étude est conduite de la façon suivante :
   <li>Conclusion</li>
 </ul>
 
-Sans plus attendre, <a href='https://github.com/Chedeta/speed_dating_analysis/blob/main/speed_dating_eda_analysis.ipynb'>cliquez ici</a> pour découvrir l'étude.
+Sans plus attendre, <a href='https://github.com/Chedeta/speed_dating_analysis/blob/main/speed_dating_eda_analysis.ipynb' target="_blank">cliquez ici</a> pour découvrir l'étude.
