@@ -8,6 +8,6 @@ Chaque ligne est une rencontre entre deux personnes, la personne qui reçoit not
 
 L'étude s'est portée sur un axe précis, qui est de savoir si l'origine des participants compte plus que les centres d'intérêts qu'ils pourraient avoir en commun.
 
-La conclusion risque de vous surprendre...
+<h4>La conclusion risque de vous surprendre...</h4>
 
 Pour ce faire plusieurs outils de visualisation sont utilisés tels que la librairie Plotly ou encore Seaborn et Matplotlib, après avoir fait du data engineering sur nos données.
