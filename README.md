@@ -1,5 +1,7 @@
 # Analyse des données d'un speed dating
 
+<a href='https://share.vidyard.com/watch/Gc83WaX2q1dAvwKProGqzY?' target="_blank">Lien vers la vidéo</a>
+
 Problématique : <h4>Les activités et intérêts en commun sont-ils plus importants qu'une origine commune ?</h4>
 
 Nous nous intéressons à un dataset de speed dating qui comporte 195 colonnes pour environ 4800 lignes.
