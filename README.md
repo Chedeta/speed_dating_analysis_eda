@@ -4,7 +4,7 @@
 
 Problématique : <h4>Les activités et intérêts en commun sont-ils plus importants qu'une origine commune ?</h4>
 
-<img src="https://i.ibb.co/dGjJVPp/Capture.png" class="center">
+<p style="text-align:center;"><img src="https://i.ibb.co/dGjJVPp/Capture.png"></p>
 
 Nous nous intéressons à un dataset de speed dating qui comporte 195 colonnes pour environ 4800 lignes.
 
