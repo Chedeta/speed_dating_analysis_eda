@@ -2,7 +2,7 @@
 
 <a href='https://share.vidyard.com/watch/Gc83WaX2q1dAvwKProGqzY?' target="_blank">Lien vers la vidéo</a>
 
-Problématique : <h4>Les activités et intérêts en commun sont-ils plus importants qu'une origine commune ?</h4>
+<h4>Les activités et intérêts en commun sont-ils plus importants qu'une origine commune ?</h4>
 
 <p style="text-align:center;"><img src="https://i.ibb.co/dGjJVPp/Capture.png"></p>
 
