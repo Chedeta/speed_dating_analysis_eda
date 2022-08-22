@@ -8,7 +8,7 @@ Problématique : <h4>Les activités et intérêts en commun sont-ils plus import
 
 Nous nous intéressons à un dataset de speed dating qui comporte 195 colonnes pour environ 4800 lignes.
 
-Les données csv et le notebook associé sont disponibles sur ce repo
+Les données csv et le notebook associé sont disponibles sur ce repository
 
 Chaque ligne est une rencontre entre deux personnes, la personne qui reçoit note l'autre personne selon des critères et des attirances, puis décide si elle veut revoir la personne ou non.
 
@@ -26,3 +26,6 @@ L'étude est conduite de la façon suivante :
 </ul>
 
 Sans plus attendre, <a href='https://github.com/Chedeta/speed_dating_analysis/blob/main/speed_dating_eda_analysis%20(1).ipynb' target="_blank">cliquez ici</a> pour découvrir l'étude.
+
+## Infos :
+Auteur : Jean Ivars
